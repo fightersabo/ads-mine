@@ -64,3 +64,8 @@
 ||appmetrica.yandex.ru^
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
+||imasdk.googleapis.com^
+||dai.google.com^
+||g.jwpsrv.com^
+||ssl.p.jwpcdn.com^
+||metrics.brightcove.com^
