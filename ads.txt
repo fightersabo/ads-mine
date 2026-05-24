@@ -32,7 +32,6 @@
 ||u.openx.net^
 ||image6.pubmatic.com^
 ||hbopenbid.pubmatic.com^
-||s.youtube.com^
 ||redirector.googlevideo.com^
 ||youtubei.googleapis.com^
 ||securepubads.g.doubleclick.net^
